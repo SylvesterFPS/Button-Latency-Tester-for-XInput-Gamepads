@@ -11,11 +11,12 @@ I built my own gamepad latency tester. My goal is to measure the actual Controll
 <img width="100%" alt="Screenshot 2026-06-25 182905" src="https://github.com/user-attachments/assets/ee42f309-bb71-498d-bbc5-5f4a67e5ee42" />   
 
 
-**How to wire:**
+# How to wire:
 - Teensy 4.0 / 4.1 over USB to PC
 - your XInput Gamepad over USB to PC
-- connect Pin 0 from the Teensy to the A-Button on your Controller/Gamepad (You need to disassembling the controller)
-**- Now start the Test**
+- connect Pin 0 from the Teensy to the A-Button on your Controller/Gamepad, only one wire from the Teensy to the Controller is requierd (You need to disassembling the controller) 
+
+**Now start the Test**
 
 <img width="100%" alt="Unbenannt" src="https://github.com/user-attachments/assets/daebeaca-e2df-40d9-a276-87e71c7a272d" />
 
