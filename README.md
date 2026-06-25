@@ -8,7 +8,8 @@ I built my own gamepad latency tester. My goal is to measure the actual Controll
 - Firmware (.hex file) for Teensy (Download the .zip file)
 - XInput Latency Tester Software (Download the .zip file)
 
-<img width="100%" alt="Screenshot 2026-06-25 182905" src="https://github.com/user-attachments/assets/ee42f309-bb71-498d-bbc5-5f4a67e5ee42" />
+<img width="100%" alt="Screenshot 2026-06-25 182905" src="https://github.com/user-attachments/assets/ee42f309-bb71-498d-bbc5-5f4a67e5ee42" />   
+
 
 **How to wire:**
 - Teensy 4.0 / 4.1 over USB to PC
