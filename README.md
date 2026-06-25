@@ -1,5 +1,5 @@
 # Button-Latency-Tester-for-XInput-Gamepads
-I built my own gamepad latency tester. My goal is to measure the actual Controller to PC latency you experience while playing games
+I built my own gamepad latency tester. My goal is to measure the actual Controller to PC latency you experience while playing games. **Only XInput Controller will work on this software**
 
 **Requirements:**
 - Teensy 4.0 / 4.1 Microcontroller
@@ -14,7 +14,7 @@ I built my own gamepad latency tester. My goal is to measure the actual Controll
 # How to wire:
 - Teensy 4.0 / 4.1 over USB to PC
 - your XInput Gamepad over USB to PC
-- connect Pin 0 from the Teensy to the A-Button on your Controller/Gamepad, only one wire from the Teensy to the Controller is requierd (You need to disassembling the controller) 
+- connect Pin 0 from the Teensy to the A-Button on your Controller/Gamepad, only one wire from the Teensy to the Controller is requierd (You need to disassembling the controller)
 
 **Now start the Test**
 
